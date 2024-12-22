@@ -2,10 +2,9 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22 * * *'
-    - cron: '0 10 * * *'
+    - cron: '0 6 */3 * *' #每 3 天早上 6 点运行
   workflow_dispatch:
-    branches:
+    分支:
       - master
       - dev
       - gd
@@ -67,9 +66,9 @@ jobs:
       - name: Install selenium
         if: env.OPEN_DRIVER == 'True'
         run: pipenv install selenium
-      - name: Update
+      - name: 更新
         run: pipenv run dev
-      - name: Commit and push if changed
+      - name: Commit 和 push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
