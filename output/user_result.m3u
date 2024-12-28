@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-27 22:25:26" tvg-logo="https://live.fanmingming.com/tv/2024-12-27 22:25:26.png" group-title="🕘️更新时间",2024-12-27 22:25:26
+#EXTINF:-1 tvg-name="2024-12-28 14:20:17" tvg-logo="https://live.fanmingming.com/tv/2024-12-28 14:20:17.png" group-title="🕘️更新时间",2024-12-28 14:20:17
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
@@ -211,8 +211,6 @@ https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
@@ -223,8 +221,12 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏀体育频道",五星体育
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
+http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.com/tv/超级体育.png" group-title="🏀体育频道",超级体育
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.com/tv/超级体育.png" group-title="🏀体育频道",超级体育
@@ -233,16 +235,18 @@ http://[2409:8087:74d6:22::7]:6410/270000001128/9900000020/index.m3u8?
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="🏀体育频道",精品体育
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="🏀体育频道",广州竞赛
-https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
