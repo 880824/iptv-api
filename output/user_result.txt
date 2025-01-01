@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2024-12-31 14:21:36,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
+2025-01-01 14:22:17,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 CCTV-1,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
@@ -110,8 +110,11 @@ CCTV-17,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000056836/ind
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 
 🎬电影频道,#genre#
+CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 黑莓电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
 黑莓电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 🏀体育频道,#genre#
 CCTV-5,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8

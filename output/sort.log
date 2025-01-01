@@ -46,7 +46,6 @@ Name: CCTV-11, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/ind
 Name: CCTV-11, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: CCTV-11, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000508/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: CCTV-11, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
-Name: CCTV-11, URL: http://111.61.236.247:9081/hls/11/index.m3u8$订阅源, Date: None, Delay: 548 ms, Speed: 0.09 M/s, Resolution: None
 Name: CCTV-12, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: CCTV-12, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: CCTV-12, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000509/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
@@ -123,7 +122,6 @@ Name: 甘肃卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001128/990000002
 Name: 甘肃卫视, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 甘肃卫视, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000023/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 甘肃卫视, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
-Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8$订阅源, Date: None, Delay: 548 ms, Speed: 0.09 M/s, Resolution: None
 Name: 广西卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广西卫视, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031118/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广西卫视, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000034/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
@@ -155,6 +153,7 @@ Name: 江西卫视, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000
 Name: 江西卫视, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000011210/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 内蒙古卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 内蒙古卫视, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000044/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 内蒙古卫视, URL: https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680$订阅源, Date: None, Delay: 1009 ms, Speed: 0.33 M/s, Resolution: None
 Name: 宁夏卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 宁夏卫视, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000002000031451/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000031451$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 宁夏卫视, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000047/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
@@ -200,13 +199,15 @@ Name: 广东卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001128/990000052
 Name: 广东卫视, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000031076/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广东卫视, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000520/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广东卫视, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000031076/index.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
-Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源, Date: None, Delay: 1141 ms, Speed: 5.90 M/s, Resolution: None
-Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源, Date: None, Delay: 1141 ms, Speed: 5.90 M/s, Resolution: None
+Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源, Date: None, Delay: 109 ms, Speed: 7.75 M/s, Resolution: None
+Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源, Date: None, Delay: 109 ms, Speed: 7.75 M/s, Resolution: None
+Name: CHC家庭影院, URL: http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: CHC动作电影, URL: http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 黑莓电影, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 黑莓电影, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 黑莓电影, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000095/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 黑莓电影, URL: http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
-Name: 星空卫视, URL: http://218.202.220.2:5000/nn_live.ts?id=STARTV$订阅源, Date: None, Delay: 413 ms, Speed: 0.18 M/s, Resolution: None
+Name: 星空卫视, URL: http://218.202.220.2:5000/nn_live.ts?id=STARTV$订阅源, Date: None, Delay: 413 ms, Speed: 0.51 M/s, Resolution: None
 Name: CCTV-5, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: CCTV-5, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: CCTV-5, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000005/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
@@ -224,7 +225,7 @@ Name: 超级体育, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000
 Name: 精品体育, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 精品体育, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000102/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 江苏体育, URL: http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY$订阅源, Date: None, Delay: None ms, Speed: 0.00 M/s, Resolution: None
-Name: 安徽综艺体育, URL: http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源, Date: None, Delay: 316 ms, Speed: 0.00 M/s, Resolution: None
+Name: 安徽综艺体育, URL: http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源, Date: None, Delay: 318 ms, Speed: 0.00 M/s, Resolution: None
 Name: 睛彩篮球, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 睛彩篮球, URL: http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 魅力足球, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
